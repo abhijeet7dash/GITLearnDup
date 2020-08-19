@@ -1,6 +1,6 @@
 package qaclickacademy;
 
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 
 public class AppiumTest {
 	@Test
